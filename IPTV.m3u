@@ -1,103 +1,95 @@
 #EXTM3U
-#EXTINF:-1, Channel 1
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",GaziTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF:-1, Channel 2
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",TSports-Live
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
-#EXTINF:-1, Channel 3
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
-#EXTINF:-1, Channel 4
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",sonyfive
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
-#EXTINF:-1, Channel 5
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
-#EXTINF:-1, Channel 6
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/index.m3u8
-#EXTINF:-1, Channel 7
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
-#EXTINF:-1, Channel 8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",StarSports22
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
-#EXTINF:-1, Channel 9
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",PTV
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
-#EXTINF:-1, Channel 10
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Independent
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
-#EXTINF:-1, Channel 11
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",DBC
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
-#EXTINF:-1, Channel 12
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
-#EXTINF:-1, Channel 13
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel-I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
-#EXTINF:-1, Channel 14
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-#EXTINF:-1, Channel 15
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1, Channel 16
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-#EXTINF:-1, Channel 17
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Ekattor
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
-#EXTINF:-1, Channel 19
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SomoyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
-#EXTINF:-1, Channel 20
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
-#EXTINF:-1, Channel 21
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
-#EXTINF:-1, Channel 23
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nagorik
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
-#EXTINF:-1, Channel 25
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
-#EXTINF:-1, Channel 26
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",JamunaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
-#EXTINF:-1, Channel 27
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel 24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
-#EXTINF:-1, Channel 28
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",News24
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
-#EXTINF:-1, Channel 30
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Boishakhi
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
-#EXTINF:-1, Channel 31
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",EkusheyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
-#EXTINF:-1, Channel 34
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AnandaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
-#EXTINF:-1, Channel 35
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",DeshTV
 http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
-#EXTINF:-1, Channel 36
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",mytv
 http://tv.dugdugilive.com:8080/0ne$ky23/mytv/index.m3u8
-#EXTINF:-1, Channel 38
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ATNIslamic
 http://tv.dugdugilive.com:8080/0ne$ky23/ATNIslamic/index.m3u8
-#EXTINF:-1, Channel 40
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",starJalsa
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
-#EXTINF:-1, Channel 41
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",jalshamovies
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
-#EXTINF:-1, Channel 43
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",sangeetbangla
 http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
-#EXTINF:-1, Channel 44
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Zee Bangla Cinema
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8
-#EXTINF:-1, Channel 45
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Dhoom
 http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
-#EXTINF:-1, Channel 46
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ZeeCinema
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
-#EXTINF:-1, Channel 47
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndPictures
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/index.m3u8
-#EXTINF:-1, Channel 48
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",StarPlus
 http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/index.m3u8
-#EXTINF:-1, Channel 49
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Colors
 http://tv.dugdugilive.com:8080/0ne$ky23/Colors/index.m3u8
-#EXTINF:-1, Channel 50
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
-#EXTINF:-1, Channel 51
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ZeeTV
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
-#EXTINF:-1, Channel 52
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndTV
 http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
-#EXTINF:-1, Channel 53
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ZBolloyWoord
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-#EXTINF:-1, Channel 54
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyMax
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
-#EXTINF:-1, Channel 55
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",StarGold
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
-#EXTINF:-1, Channel 56
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
-#EXTINF:-1, Channel 57
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",B4Umovies
 http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
-#EXTINF:-1, Channel 60
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Discovery
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
-#EXTINF:-1, Channel 61
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndFlix
 http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
-#EXTINF:-1, Channel 62
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
