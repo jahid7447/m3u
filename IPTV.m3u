@@ -67,6 +67,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATNIslamic/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Zee Bangla
 http://172.21.22.2:8082/ZeeBanglaHD/index.m3u8?token=f9b8ea81bbf6e19d156de680cb518ffde962db2a-26df7dcce7714633553b176b240fdf53-1694127146-1694116346
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Sony Aath
+http://172.21.22.2:8082/Sonyaath/index.m3u8?token=0b6ec620bdf5e8383ddf2b99b0f7b390d6130ed6-5ac2cfafaa7ba1bb2a690109a0641210-1694127288-1694116488
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",jalshamovies
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",sangeetbangla
