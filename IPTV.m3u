@@ -42,7 +42,7 @@ http://172.21.22.2:8082/GaanBangla/index.m3u8?token=220aa4028dc747716b3a89a1ede2
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nagorik
-http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
+http://172.21.22.2:8082/Nagorik-TV/index.m3u8?token=6987f2cd4d00c0ca792d7a0db42ee0848f377331-e09849cec2d569c402c260b19dedbc08-1694126756-1694115956
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",JamunaTV
