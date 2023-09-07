@@ -115,8 +115,6 @@ http://172.21.22.2:8082/Discovery-Tv/index.m3u8?token=4a3767f6dd9158811157313a54
 http://172.21.22.2:8082/Nat-Geo/index.m3u8?token=f70ac74e8f6baa9dcee164e349a73ee559e33c93-d49773760a65868a007fdf55f17d6e58-1694126299-1694115499
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Sony Kal
 http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndFlix
-http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyPix
 http://172.21.22.2:8082/SonyPix/index.m3u8?token=68e22d65243b8934f1083c136b1372ef6556e19b-791557275a5394c8b2418bb3817d5028-1694126125-1694115325
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Pop Max
