@@ -87,6 +87,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Colors/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",MTV
+http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ZeeTV
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndTV
@@ -101,6 +103,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",B4Umovies
 http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",9xm
+http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Discovery
 http://172.21.22.2:8082/Discovery-Tv/index.m3u8?token=4a3767f6dd9158811157313a5418f2f775125814-21c52f222d1fa1668f5b1ff8afce6065-1694126265-1694115465
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nat Geo
