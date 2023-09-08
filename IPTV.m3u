@@ -37,21 +37,19 @@ http://cdn.ihub.live:8082/j-SATV/index.m3u8?token=7d2a687178a41e9bd07a8cdcc8b4cd
 http://172.21.22.2:8082/Nagorik-TV/index.m3u8?token=bcab2dd759daf61af7b2ea5ad753076e4d5c5c6d-63adff6d044e4a81d308dbf31e7f70bb-1694126006-1694115206
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",MohonaTV
 http://172.21.22.2:8082/MohonaTV/index.m3u8?token=21f3dbfbffd57e8ca420883d6bf3a9ff42490aca-bfb532b14c5d90aa061d36c629dd531c-1694125968-1694115168
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",GaanBangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg",GaanBangla
 http://172.21.22.2:8082/GaanBangla/index.m3u8?token=220aa4028dc747716b3a89a1ede20200a8adf1b4-5b54236001b9c3e22a2b90ec747d0a5a-1694125914-1694115114
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Deepto
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nagorik
-http://172.21.22.2:8082/Nagorik-TV/index.m3u8?token=6987f2cd4d00c0ca792d7a0db42ee0848f377331-e09849cec2d569c402c260b19dedbc08-1694126756-1694115956
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaTV
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",JamunaTV
+https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg",JamunaTV
 http://cdn.ihub.live:8082/j-JamunaTV/index.m3u8?token=8afe99a8695800a54f91f3496c06ec34ee95939a-025b1cc555dba9036f8e9bb69b1bb463-1694121424-1694110624
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel 24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",News24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://image4.owler.com/logo/news24_owler_20160229_223045_original.png",News24
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Boishakhi
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",EkusheyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
