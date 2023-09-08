@@ -31,11 +31,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
 http://cdn.ihub.live:8082/j-AsianTV/index.m3u8?token=be50a285b2b009e04a5b6321caefc3d30c6423de-95eb0ada6475326f8f436fd42d34ff82-1694121048-1694110248
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SATV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.satv.tv/wp-content/uploads/2021/08/satv-logo-1.jpg",SATV
 http://cdn.ihub.live:8082/j-SATV/index.m3u8?token=7d2a687178a41e9bd07a8cdcc8b4cd78dd72f954-22e338b1a5108f1e24d9ae92c18b3dec-1694125570-1694114770
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nagorik TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",Nagorik TV
 http://172.21.22.2:8082/Nagorik-TV/index.m3u8?token=bcab2dd759daf61af7b2ea5ad753076e4d5c5c6d-63adff6d044e4a81d308dbf31e7f70bb-1694126006-1694115206
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",MohonaTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",MohonaTV
 http://172.21.22.2:8082/MohonaTV/index.m3u8?token=21f3dbfbffd57e8ca420883d6bf3a9ff42490aca-bfb532b14c5d90aa061d36c629dd531c-1694125968-1694115168
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",GaanBangla
 http://172.21.22.2:8082/GaanBangla/index.m3u8?token=220aa4028dc747716b3a89a1ede20200a8adf1b4-5b54236001b9c3e22a2b90ec747d0a5a-1694125914-1694115114
