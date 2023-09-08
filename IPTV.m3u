@@ -3,33 +3,33 @@
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSports-Live
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",StarSports1
-http://172.21.22.2:8082/Star-Sports-1/index.m3u8?token=37577300b5eafe219d1da5de7f4f4fd973487fb8-9ddd2fd9828da1b4e86b43d0c7f039e8-1694129879-1694119079
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png",sony 5
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",StarSports1
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png",Independent
 http://172.21.22.2:8082/Independent-Tv/index.m3u8?token=234ddb5143910d8b2b738d9794610ef5f5899466-6b3486f43a0322efa441955dd1d00c5d-1694125795-1694114995
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",DBC
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dbc_news_bd.png",DBC
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",RTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel-I
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel-I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaVision
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",NTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",ATN-News
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Ekattor
+#EXTINF:0 tvg-language="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png",Ekattor
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SomoyTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/1200px-সময়_টিভির_লোগো.svg.png",SomoyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Channel 9
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Asian TV
+#EXTINF:0 tvg-language="Bangla" https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
 http://cdn.ihub.live:8082/j-AsianTV/index.m3u8?token=be50a285b2b009e04a5b6321caefc3d30c6423de-95eb0ada6475326f8f436fd42d34ff82-1694121048-1694110248
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SATV
 http://cdn.ihub.live:8082/j-SATV/index.m3u8?token=7d2a687178a41e9bd07a8cdcc8b4cd78dd72f954-22e338b1a5108f1e24d9ae92c18b3dec-1694125570-1694114770
@@ -115,6 +115,8 @@ http://172.21.22.2:8082/Discovery-Tv/index.m3u8?token=4a3767f6dd9158811157313a54
 http://172.21.22.2:8082/Nat-Geo/index.m3u8?token=f70ac74e8f6baa9dcee164e349a73ee559e33c93-d49773760a65868a007fdf55f17d6e58-1694126299-1694115499
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Sony Kal
 http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndFlix
+http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyPix
 http://172.21.22.2:8082/SonyPix/index.m3u8?token=68e22d65243b8934f1083c136b1372ef6556e19b-791557275a5394c8b2418bb3817d5028-1694126125-1694115325
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Pop Max
