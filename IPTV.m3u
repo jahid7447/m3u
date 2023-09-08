@@ -93,30 +93,28 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2062caa2-8b1e-476d-b86a-f80779bdc3ea/b76f7938-242b-4bd4-a1a5-122ad216bac8.png",ZBolloyWoord
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyMax
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",SonyMax
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",StarGold
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png",StarGold
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",CinePlex
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",B4Umovies
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://e7.pngegg.com/pngimages/899/279/png-clipart-b4u-music-b4u-movies-television-channel-others-miscellaneous-television.png",B4Umovies
 http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",9xm
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png",9xm
 http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",B4U Music
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
 http://tv.dugdugilive.com:8080/0ne$ky23/B4U/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Zoom
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.vhv.rs/dpng/d/126-1261070_zoom-tv-logo-transparent-hd-png-download.png",Zoom
 http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Discovery
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-B1541007FE-seeklogo.com.png",Discovery
 http://172.21.22.2:8082/Discovery-Tv/index.m3u8?token=4a3767f6dd9158811157313a5418f2f775125814-21c52f222d1fa1668f5b1ff8afce6065-1694126265-1694115465
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Nat Geo
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",Nat Geo
 http://172.21.22.2:8082/Nat-Geo/index.m3u8?token=f70ac74e8f6baa9dcee164e349a73ee559e33c93-d49773760a65868a007fdf55f17d6e58-1694126299-1694115499
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Sony Kal
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/696xauto/public/images/biz/2022/10/10/sony-kal.jpg?itok=ctzBlRuv",Sony Kal
 http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",AndFlix
-http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SonyPix
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://seeklogo.com/images/S/sony-pix-logo-34A5FEEFA4-seeklogo.com.png",SonyPix
 http://172.21.22.2:8082/SonyPix/index.m3u8?token=68e22d65243b8934f1083c136b1372ef6556e19b-791557275a5394c8b2418bb3817d5028-1694126125-1694115325
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",Pop Max
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png",Pop Max
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
 
