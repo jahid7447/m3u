@@ -19,7 +19,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg",NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
@@ -41,7 +41,7 @@ http://172.21.22.2:8082/MohonaTV/index.m3u8?token=21f3dbfbffd57e8ca420883d6bf3a9
 http://172.21.22.2:8082/GaanBangla/index.m3u8?token=220aa4028dc747716b3a89a1ede20200a8adf1b4-5b54236001b9c3e22a2b90ec747d0a5a-1694125914-1694115114
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",BanglaTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",BanglaTV
 https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg",JamunaTV
 http://cdn.ihub.live:8082/j-JamunaTV/index.m3u8?token=8afe99a8695800a54f91f3496c06ec34ee95939a-025b1cc555dba9036f8e9bb69b1bb463-1694121424-1694110624
