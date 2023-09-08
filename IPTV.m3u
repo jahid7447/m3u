@@ -23,13 +23,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-#EXTINF:0 tvg-language="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png",Ekattor
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png",Ekattor
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/1200px-সময়_টিভির_লোগো.svg.png",SomoyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
-#EXTINF:0 tvg-language="Bangla" https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
 http://cdn.ihub.live:8082/j-AsianTV/index.m3u8?token=be50a285b2b009e04a5b6321caefc3d30c6423de-95eb0ada6475326f8f436fd42d34ff82-1694121048-1694110248
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nsUqV9H9YbcnL55d0Me9jrCrJAAiG6M8/view?usp=share_link",SATV
 http://cdn.ihub.live:8082/j-SATV/index.m3u8?token=7d2a687178a41e9bd07a8cdcc8b4cd78dd72f954-22e338b1a5108f1e24d9ae92c18b3dec-1694125570-1694114770
