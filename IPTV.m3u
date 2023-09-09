@@ -6,7 +6,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png",sony 5
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",StarSports1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png",Independent
@@ -41,8 +41,6 @@ http://172.21.22.2:8082/MohonaTV/index.m3u8?token=21f3dbfbffd57e8ca420883d6bf3a9
 http://172.21.22.2:8082/GaanBangla/index.m3u8?token=220aa4028dc747716b3a89a1ede20200a8adf1b4-5b54236001b9c3e22a2b90ec747d0a5a-1694125914-1694115114
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",BanglaTV
-https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg",JamunaTV
 http://cdn.ihub.live:8082/j-JamunaTV/index.m3u8?token=8afe99a8695800a54f91f3496c06ec34ee95939a-025b1cc555dba9036f8e9bb69b1bb463-1694121424-1694110624
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
