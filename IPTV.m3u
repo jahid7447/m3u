@@ -1,32 +1,33 @@
 #EXTM3U
-#EXTINF:-1, Channel 1
+#EXTINF:-1, satv
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1753741203&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=3bba4c56325c7ade12be44d6d003375b
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Ekhontv
 https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8?e=1753741204&token=5d53d11d328153c8c0ebbe56bf6de37e
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Ekattortv
 https://tvsen6.aynaott.com/ekattorbdtv/tracks-v1a1/mono.ts.m3u8?e=1753741205&token=8464bbbc9450c5e5935bca44a76de9c1
-#EXTINF:-1, Channel 1
+#EXTINF:-1, news24
 https://tvsen6.aynaott.com/news24/tracks-v1a1/mono.ts.m3u8?e=1753741204&token=0e298e2f9e3a55bb4a903008493653ec
-#EXTINF:-1, Channel 1
+#EXTINF:-1, dbc news
 https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?e=1753741204&token=de6168e3320b292be83833132d83ade8
-#EXTINF:-1, Channel 1
+#EXTINF:-1, atnnews
 https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1753741203&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
-#EXTINF:-1, Channel 1
+#EXTINF:-1, nexustv
 https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8?e=1753741205&token=81b0a802403aad3437983da189cd9f77
-#EXTINF:-1, Channel 1
+#EXTINF:-1, globaltv
 https://tvsen6.aynaott.com/globaltvhd/tracks-v1a1/mono.ts.m3u8?e=1753741206&token=cd4842acdaf8f0723fe08df6453e1306
-#EXTINF:-1, Channel 1
+#EXTINF:-1, anandatv
 https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8?e=1753741206&token=900f1845941c664ca464417a666816f6
-#EXTINF:-1, Channel 1
+#EXTINF:-1, channel24
 https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8?e=1753741202&token=85169db4171f59cc700c2230da1474b0
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Jamunatv
 https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8?e=1753741205&token=51b90e88fcf722380246847daaf2ba24
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Somoytv
 https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8?e=1753741201&token=8f952f655c5a7cbcfac7872ccb7c18c7
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Mohonatv
 https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1753741205&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Deeptotv
 https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
+
 
